@@ -1,5 +1,9 @@
 # Nyu's Alt1 Plugins
 
+## Discord
+
+For any support & suggestions please join the Discord server: https://discord.gg/SCy2f2r6Pc or open an issue on the relevant plugin's repository.
+
 ## Better Buffs Bar
 
 [Source code & more information](https://github.com/NadyaNayme/BetterBuffsBar)
