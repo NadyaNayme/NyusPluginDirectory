@@ -2,7 +2,7 @@
 
 ## Discord
 
-For any support & suggestions please join the Discord server: https://discord.gg/SCy2f2r6Pc or open an issue on the relevant plugin's repository.
+For any support & suggestions please join the Discord server: [https://discord.gg/KJ2SgWyJFF](https://discord.gg/KJ2SgWyJFF) or open an issue on the relevant plugin's repository.
 
 ## Better Buffs Bar
 
