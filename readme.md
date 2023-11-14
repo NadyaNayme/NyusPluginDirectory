@@ -35,3 +35,9 @@ Install link: `alt1://addapp/https://nadyanayme.github.io/VoiceOfSeren/dist/appc
 Uses chat active/no longer active messaging to alert you when you leave your Pocket Slot enabled when out of combat... or when you forget to active it while in combat!
 
 Install link: `alt1://addapp/https://nadyanayme.github.io/WhatsInYourPocket/dist/appconfig.json`
+
+## Deep Sea Insulation
+
+[Source code & more information](https://github.com/NadyaNayme/DeepSeaInsulation)
+
+Sounds an alarm when you fish an electrifying jellyfish and the game window is in focus.
