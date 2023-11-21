@@ -43,3 +43,11 @@ Install link: `alt1://addapp/https://nadyanayme.github.io/WhatsInYourPocket/dist
 Sounds an alarm when you fish an electrifying jellyfish and the game window is in focus.
 
 Install link: `alt1://addapp/https://nadyanayme.github.io/DeepSeaInsulation/dist/appconfig.json`
+
+## Voiced Telos
+
+[Source code & more information](https://github.com/NadyaNayme/VoicedTelos)
+
+Gives Telos a voice. For _immmersion_.
+
+Install Link: `alt1://addapp/https://nadyanayme.github.io/VoicedTelos/dist/appconfig.json`
