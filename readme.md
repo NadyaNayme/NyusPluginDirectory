@@ -20,6 +20,13 @@ Track your Residual Souls, Necrosis stacks, summoned Conjures, and Bloat all in 
 
 Install link: `alt1://addapp/https://nadyanayme.github.io/NyusNecroJobGauge/dist/appconfig.json`
 
+
+## Nyu's Action Bar Tracker
+
+[Source code & more information](https://github.com/NadyaNayme/NyusActionBarTracker)
+
+Install link: `alt1://addapp/https://nadyanayme.github.io/NyusActionBarTracker/dist/appconfig.json`
+
 ## Voice of Seren
 
 [Source code & more information](https://github.com/NadyaNayme/VoiceOfSeren)
@@ -50,4 +57,12 @@ Install link: `alt1://addapp/https://nadyanayme.github.io/DeepSeaInsulation/dist
 
 Gives Telos a voice. For _immmersion_.
 
-Install Link: `alt1://addapp/https://nadyanayme.github.io/VoicedTelos/dist/appconfig.json`
+Install link: `alt1://addapp/https://nadyanayme.github.io/VoicedTelos/dist/appconfig.json`
+
+## Progress Helper
+
+[Source code & more information](https://github.com/NadyaNayme/ProgressHelper)
+
+Track your smithing progress and be alerted for when you should switch to your Breakdown hammer.
+
+Install link: `alt1://addapp/https://nadyanayme.github.io/ProgressHelper/dist/appconfig.json`
