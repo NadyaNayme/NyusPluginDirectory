@@ -12,13 +12,13 @@ Track only the buffs that actually matter - in the order that matters.
 
 Install link: `alt1://addapp/https://nadyanayme.github.io/BetterBuffsBar/dist/appconfig.json`
 
-## Necromancy Job Gauge
+## Job Gauges
 
-[Source code & more information](https://github.com/NadyaNayme/NyusNecroJobGauge)
+[Source code & more information](https://github.com/NadyaNayme/job-gauges)
 
-Track your Residual Souls, Necrosis stacks, summoned Conjures, and Bloat all in one consistent place. Inspired by FFXIV's Job Gauges - to make tracking your resources as easy as can be!
+Inspired by FFXIV's Job Gauges - make tracking your combat resources as a unified UI!
 
-Install link: `alt1://addapp/https://nadyanayme.github.io/NyusNecroJobGauge/dist/appconfig.json`
+Install link: `alt1://addapp/https://nadyanayme.github.io/job-gauges/dist/appconfig.json`
 
 
 ## Nyu's Action Bar Tracker
